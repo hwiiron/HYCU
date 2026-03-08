@@ -1,1 +1,1 @@
-### HYCU Algorithm
+### HYCU
